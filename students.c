@@ -6,7 +6,7 @@
 //created the structure where the students information
 struct Student{
     char name[20], address[30], contact[15], age[4];
-}s[100]; //variable s denotes the structure and array is added of 5 size
+}s[100]; //variable s denotes the structure and array is added of 100 size
 
 void TextFile();
 void OverwriteData();
